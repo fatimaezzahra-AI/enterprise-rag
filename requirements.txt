@@ -1,0 +1,10 @@
+qdrant-client
+rank_bm25
+sentence-transformers
+groq
+python-dotenv
+streamlit
+ragas==0.4.3
+datasets
+langchain-groq
+langchain-huggingface
