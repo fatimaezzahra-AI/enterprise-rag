@@ -3,3 +3,4 @@
 venv/
 __pycache__/
 qdrant_db/
+.streamlit/secrets.toml
